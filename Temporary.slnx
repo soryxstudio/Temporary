@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="csharp/ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="python/Jum2Python1/Jum2Python1.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="5a3844a6-ac1e-48b1-b387-25cadf30ef11">
+    <Build Project="false" />
+  </Project>
+  <Project Path="python/Jum2Python2/Jum2Python2.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="5ad181fe-015f-4c08-a769-23a874126c5d">
+    <Build Project="false" />
+  </Project>
+</Solution>
